@@ -1,4 +1,4 @@
 module.exports = {
-    ClassClass: require('./class'),
     Student: require('./student'),
+    ClassClass: require('./class'),
 }
